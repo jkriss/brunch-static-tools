@@ -1,0 +1,9 @@
+{
+  "name": "brunch-static-tools",
+  "version": "1.0.0",
+  "author": "Jesse Kriss <jesse@jklabs.net>",
+  "license": "MIT",
+  "dependencies": {
+    "static-tools": "github:jkriss/static-tools"
+  }
+}
